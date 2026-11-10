@@ -1,6 +1,3 @@
-[美瑀.html](https://github.com/user-attachments/files/34641857/default.html)
-<!DOCTYPE html>
-
 <html lang="zh-Hant">
 <head>
 <meta charset="utf-8"/>
