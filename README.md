@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width,initial-scale=1"="viewport"/>
 <title>美瑀SPA美學｜產品配貨分析</title>
 <style>
 :root{--bg:#f3f2ed;--paper:#fff;--text:#203b34;--muted:#738078;--line:#dfe6da;--green:#295b49;--soft:#edf4e8;--red:#a05542;--plus:2pt}
